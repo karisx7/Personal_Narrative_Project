@@ -27,6 +27,4 @@ My animation showcases different aspects of my identity and personal interests t
 
 ## Image Filter Analysis
 
-Choose at least 2 filters used in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
-
 One filter I used is the glitchFilter(), which randomly changes each pixel's red, green, and blue values by subtracting or adding 50 from the value, creating the glitch effect. The RGB values are limited to stay between 0 and 255 so that the values remain valid. I also used the applyBlur(), which replaces each pixel's color with the average RGB values surrounding the pixel on a 3x3 grid. This averaging smooths out sharp differences between pixels, making the image appear blurred. These filters show how modifying pixel values in a 2D array can make images more engaging and enhance the overall quality of the animation.
