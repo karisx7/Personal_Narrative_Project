@@ -37,6 +37,7 @@ drawFriendsImages();
   public void drawKoreanImages(int xPos, int yPos, int width, int height) {
 
     clear("pink");
+    playSound(soundFile);
     setTextStyle(Font.MONO, FontStyle.BOLD);
     int fontSize = 40;
     setTextHeight(fontSize);

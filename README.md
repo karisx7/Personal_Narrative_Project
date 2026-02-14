@@ -18,7 +18,7 @@ Implement algorithms – Implement one or more algorithms that use loops and log
 ![UML Diagram for my project](UMLDiagram.png)
 
 ## Video
-
+(The video doesn't play the audio but the audio does work I just updated it later.)
 [![Thumbnail for my projet](thumbnail.png)]([youtube-URL-here](https://www.youtube.com/watch?v=82PkFqlTIKg))
 
 ## Story Description
